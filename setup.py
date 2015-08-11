@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='blns',
-    version='0.1.6',
+    version='0.1.7',
     url='https://github.com/danggrianto/big-list-of-naughty-strings',
     license='MIT',
     author='Daniel Anggrianto',
