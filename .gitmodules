@@ -1,3 +1,3 @@
 [submodule "big-list-of-naughty-strings"]
-	path = big-list-of-naughty-strings
+	path = blns/big_list_of_naughty_strings
 	url = https://github.com/minimaxir/big-list-of-naughty-strings.git
