@@ -9,6 +9,6 @@ setup(
     author_email='daniel@anggrianto.com',
     description='Big List of Naughty String. Forked from https://github.com/minimaxir/big-list-of-naughty-strings',
     keywords='Big List of Naughty String',
-    packages=['blns'],
+    packages=['blns.naughtystrings'],
     platforms='any',
 )
